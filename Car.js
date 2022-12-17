@@ -10,8 +10,8 @@ class Car {
     this.chassisHeight = 40;
     this.wheelSize = 17;
     this.dead = false;
-    this.changeCount = 0;
-    this.number = 0;
+    this.changeCount = 10000000000000000000000000000;
+    this.number = 10000000000000;
 
     this.changeDiff = 0;
     this.shapes = [];
